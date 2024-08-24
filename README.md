@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **ColdFusion or Project collaboration, if you have some idea(software industry), please share it with me.**
 
-- 📫 How to reach me **tang9ian#gmail.com**
+- 📫 Reach me at **tang9ian#gmail.com**
 
 - 📄 Know about my experiences [tang9ian.github.io](https://tang9ian.github.io/resume)
 
@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/tang9ian" target="blank"><img align="center" src="https://tang9ian.github.io/images/x.svg" alt="tang9ian" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tang9ian" target="blank"><img align="center" src="https://tang9ian.github.io/images/leet-code.svg" alt="tang9ian" height="30" width="40" /></a>
+<a href="https://x.com/tang9ian" target="blank"><img align="center" src="https://tang9ian.github.io/images/x.svg" alt="tang9ian" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/tang9ian" target="blank"><img align="center" src="https://tang9ian.github.io/images/leet-code.svg" alt="tang9ian" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
