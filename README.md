@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tang9ian#gmail.com**
 
-- 📄 Know about my experiences [tang9ian.github.io/resume](tang9ian.github.io/resume)
+- 📄 Know about my experiences [tang9ian.github.io](https://tang9ian.github.io/resume)
 
 - ℹ️ By the way, if you have some CFML legacy systems that require maintenance, please do not hesitate to reach me at email.
 
