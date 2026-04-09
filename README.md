@@ -22,7 +22,7 @@
 <p align="left">
   <a href="https://x.com/tang9ian" target="_blank"><img src="https://tang9ian.github.io/images/x.svg" alt="X" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.leetcode.com/tang9ian" target="_blank"><img src="https://tang9ian.github.io/images/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="mailto:tang9ian@gmail.com"><img src="https://tang9ian.github.io/images/git-scm-icon.svg" alt="Email" height="40" width="40" /></a>
+  <a href="mailto:tang9ian@gmail.com"><img src="https://tang9ian.github.io/images/gmail.svg" alt="Email" height="40" width="40" /></a>
 </p>
 
 ---
