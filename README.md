@@ -35,21 +35,18 @@ _Full-stack developer specializing in Java & ColdFusion. Currently exploring the
 **Frontend**
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,tailwind,bootstrap,sass)](https://skillicons.dev)
-`Bulma` `Materialize`
 
 **Mobile**
-
+1
 [![Mobile](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 
 **Database**
 
 [![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis)](https://skillicons.dev)
-`MariaDB` `SQL Server` `Oracle` `Elasticsearch`
 
 **Tools & Others**
 
-[![Tools](https://skillicons.dev/icons?i=git,linux,bash,webpack,gulp,babel,hugo,figma)](https://skillicons.dev)
-`PyTorch` `Adobe XD`
+[![Tools](https://skillicons.dev/icons?i=git,linux,vim,bash,webpack,gulp,babel,figma)](https://skillicons.dev)
 
 ---
 
