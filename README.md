@@ -26,27 +26,27 @@ _Full-stack developer specializing in Java & ColdFusion. Currently exploring the
 
 **Cloud & DevOps**
 
-[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,azure,heroku,docker,kubernetes,jenkins,nginx)](https://skillicons.dev)
+[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,azure,heroku,docker,kubernetes,jenkins,nginx)](https://github.com/tang9ian)
 
 **Backend**
 
-[![Backend](https://skillicons.dev/icons?i=java,spring,go,python,flask,nodejs,php)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,spring,go,python,flask,nodejs,php)](https://github.com/tang9ian)
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,tailwind,bootstrap,sass)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,tailwind,bootstrap,sass)](https://github.com/tang9ian)
 
 **Mobile**
 
-[![Mobile](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
+[![Mobile](https://skillicons.dev/icons?i=flutter,dart)](https://github.com/tang9ian)
 
 **Database**
 
-[![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis)](https://github.com/tang9ian)
 
 **Tools & Others**
 
-[![Tools](https://skillicons.dev/icons?i=git,linux,vim,bash,webpack,gulp,babel,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,linux,vim,bash,webpack,gulp,babel,figma)](https://github.com/tang9ian)
 
 ---
 
