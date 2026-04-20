@@ -37,7 +37,7 @@ _Full-stack developer specializing in Java & ColdFusion. Currently exploring the
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,tailwind,bootstrap,sass)](https://skillicons.dev)
 
 **Mobile**
-1
+
 [![Mobile](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 
 **Database**
